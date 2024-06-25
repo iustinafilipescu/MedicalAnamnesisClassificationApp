@@ -1,1 +1,3 @@
 # MedicalAnamnesisClassificationApp
+Dissertation
+Filipescu Iustina-Andreea
